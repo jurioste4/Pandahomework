@@ -1,4 +1,4 @@
-# Pandahomework
+
 # Heroes of Pymoli
 
 I was assigned the task of analyzing the data for fantasy game Heroes of Pymoli.
